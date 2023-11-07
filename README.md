@@ -1,2 +1,4 @@
 # MyFirstRepository
-for earning
+
+## editing the file 
+Its a markdown file in this repository.
